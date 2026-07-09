@@ -30,3 +30,19 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 | Date | Topic | Problem | Difficulty | Solution Link |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-07-09 | Stack | Min Stack | Medium | [Code](./04.%20Stack/) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shashankgadhvi/DSA-track/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shashankgadhvi/DSA-track/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shashankgadhvi/DSA-track/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
