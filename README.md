@@ -41,8 +41,14 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shashankgadhvi/DSA-track/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shashankgadhvi/DSA-track/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shashankgadhvi/DSA-track/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shashankgadhvi/DSA-track/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shashankgadhvi/DSA-track/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
