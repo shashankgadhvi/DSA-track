@@ -66,6 +66,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shashankgadhvi/DSA-track/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/shashankgadhvi/DSA-track/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shashankgadhvi/DSA-track/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -107,4 +108,8 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/shashankgadhvi/DSA-track/tree/master/0853-car-fleet) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shashankgadhvi/DSA-track/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
