@@ -39,6 +39,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 | [0001-two-sum](https://github.com/shashankgadhvi/DSA-track/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/shashankgadhvi/DSA-track/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shashankgadhvi/DSA-track/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shashankgadhvi/DSA-track/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashankgadhvi/DSA-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -105,15 +106,18 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0042-trapping-rain-water) |
 | [0853-car-fleet](https://github.com/shashankgadhvi/DSA-track/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0042-trapping-rain-water) |
 | [0853-car-fleet](https://github.com/shashankgadhvi/DSA-track/tree/master/0853-car-fleet) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shashankgadhvi/DSA-track/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashankgadhvi/DSA-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -124,4 +128,8 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
