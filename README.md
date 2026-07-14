@@ -46,6 +46,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 | [0217-contains-duplicate](https://github.com/shashankgadhvi/DSA-track/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shashankgadhvi/DSA-track/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shashankgadhvi/DSA-track/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/shashankgadhvi/DSA-track/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/shashankgadhvi/DSA-track/tree/master/0853-car-fleet) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashankgadhvi/DSA-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/shashankgadhvi/DSA-track/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
