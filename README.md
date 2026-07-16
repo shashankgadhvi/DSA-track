@@ -110,6 +110,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/shashankgadhvi/DSA-track/tree/master/0155-min-stack) |
 | [0853-car-fleet](https://github.com/shashankgadhvi/DSA-track/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -137,4 +138,8 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shashankgadhvi/DSA-track/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
