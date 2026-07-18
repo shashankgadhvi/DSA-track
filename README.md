@@ -50,6 +50,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 | [0347-top-k-frequent-elements](https://github.com/shashankgadhvi/DSA-track/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/shashankgadhvi/DSA-track/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/shashankgadhvi/DSA-track/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/shashankgadhvi/DSA-track/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 | [0074-search-a-2d-matrix](https://github.com/shashankgadhvi/DSA-track/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashankgadhvi/DSA-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/shashankgadhvi/DSA-track/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shashankgadhvi/DSA-track/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
