@@ -44,6 +44,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 | [0042-trapping-rain-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shashankgadhvi/DSA-track/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shashankgadhvi/DSA-track/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashankgadhvi/DSA-track/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shashankgadhvi/DSA-track/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shashankgadhvi/DSA-track/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashankgadhvi/DSA-track/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -147,6 +148,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashankgadhvi/DSA-track/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Design
 |  |
 | ------- |
