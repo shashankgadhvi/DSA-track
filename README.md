@@ -44,6 +44,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 | [0042-trapping-rain-water](https://github.com/shashankgadhvi/DSA-track/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shashankgadhvi/DSA-track/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shashankgadhvi/DSA-track/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/shashankgadhvi/DSA-track/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/shashankgadhvi/DSA-track/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashankgadhvi/DSA-track/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shashankgadhvi/DSA-track/tree/master/0128-longest-consecutive-sequence) |
@@ -72,6 +73,7 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 | ------- |
 | [0015-3sum](https://github.com/shashankgadhvi/DSA-track/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shashankgadhvi/DSA-track/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shashankgadhvi/DSA-track/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/shashankgadhvi/DSA-track/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashankgadhvi/DSA-track/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shashankgadhvi/DSA-track/tree/master/0347-top-k-frequent-elements) |
@@ -163,4 +165,8 @@ A repository dedicated to tracking progress and storing solutions for the NeetCo
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shashankgadhvi/DSA-track/tree/master/0150-evaluate-reverse-polish-notation) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shashankgadhvi/DSA-track/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
