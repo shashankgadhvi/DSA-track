@@ -12,7 +12,6 @@ class Solution {
             else{
                 currentsum = currentsum + nums[i];
             }
-
             if(currentsum>maxsum){
                 maxsum = currentsum;
             }
